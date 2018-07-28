@@ -24,6 +24,6 @@ The probably fastest way to use custom contracts in [Photon](https://www.photone
    Contains a bunch of example use cases and speed tests
 
 ## What does it do?
-The _Mapper_ converts custom contracts to `Dictionary<byte, object>`.
+The _Mapper_ converts custom contracts to `Dictionary<byte, object>` and vice versa.
 
 Made for [Photon's](https://www.photonengine.com/en-US/Photon) `{OperationResponse, OperationRequest, EventData}.Parameters` 
